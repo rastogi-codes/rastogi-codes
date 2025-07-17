@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey there, I'm Krishna Rastogi!
 
-<!--
-**rastogi-codes/rastogi-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BTech CSE Student | 🚀 Future AI/ML Developer  
+🧠 Passionate about turning code into real-world solutions  
+🌟 Eager learner with a focus on backend, data science & automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages I Know 
+
+JAVA
+C
+BASIC PYTHON
+CSS
+HTML
+
+---
+
+## 📚 Currently Learning
+
+- ✅ Python for AI & Machine Learning
+- ✅ Data Structures & Algorithms
+- ✅ Git + GitHub for collaboration
+- ✅ Projects with Google Forms & automation tools
+
+---
+
+## 🚀 Goals
+
+- Build real-world AI/ML mini projects by the end of the year  
+- Participate in hackathons, GSoC, and open source  
+- Become a Java backend + AI engineer by 2026
+
+---
+
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-rastogi-883530329)
+Instagram : https://www.instagram.com/kriishhnaa._/
+Gmail : krishnarastogi0520@gmail.com
+
+
