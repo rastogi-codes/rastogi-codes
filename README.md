@@ -25,11 +25,6 @@ HTML
 
 ---
 
-## 🚀 Goals
-
-- Build real-world AI/ML mini projects by the end of the year  
-- Participate in hackathons, GSoC, and open source  
-- Become a Java backend + AI engineer by 2026
 
 ---
 
